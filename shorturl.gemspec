@@ -1,6 +1,6 @@
 require "rubygems"
 
-SPEC = Gem::Specification.new do |s|
+Gem::Specification.new do |s|
   s.name = "shorturl"
   s.version = "0.8.8"
   s.author = "Robby Russell"
